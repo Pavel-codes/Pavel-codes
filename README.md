@@ -40,9 +40,9 @@ Here are some of the things I’ve been working on:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavel-codes&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-codes&layout=compact&theme=github_dark)
 
 ---
 
