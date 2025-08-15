@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavel Butov
 
-🎓 I'm a third-year software engineering student at Ruppin Academic Center.  
+🎓 I'm a full stack developer.  
 💼 Previously worked in industry for 6 years — now focusing on fullstack projects and cloud-based solutions.  
 🌍 Passionate about building scalable, user-focused applications.
 
@@ -32,7 +32,45 @@
 
 Here are some of the things I’ve been working on:
 
+[Story Time Android app helping children learn Hebrew]([url](https://www.storytime.somee.com/))
 
+React native android application
+Featuring:
+  - Speech-to-text
+  - Text-to-speech
+  - Audible quiz game
+  - **Google OAuth 2.0**
+  - Cloudinary integration for image storage
+  - **MongoDB** Atlas (user/story/report data)
+  - **MS SQL** for quiz data
+  - Generative AI (Gemini 2.5 Flash, Imagen 4) creates stories and images
+  - Reading audio is sent to a **Node.js** server for IPA feedback
+  - Backend hosted on **ASP.NET**.
+
+
+[GoJira task management AWS serverless application]([url](https://gojira-website-304804093781.s3.us-east-1.amazonaws.com/index.html))
+
+React web application
+Featuring:
+  - **S3** static hosting
+  - **Cognito** authentication
+  - **DynamoDB**
+  - **API Gateway** for REST API
+  - **Lambda** for data transfers
+  - **SNS** for automated user email notifications
+  - **GitHub Actions** for automatic update deployment.
+
+[Book repository AWS serverless website]([url](https://bucket-for-website-346056678364.s3.us-east-1.amazonaws.com/index.html))
+
+JS web application
+Featuring:
+  - **S3** static hosting
+  - **Cognito** for user authentication
+  - **DynamoDB**
+  - **API Gateway** for REST API
+  - **Lambda**
+  - **Step Functions**
+  - **SNS** for user email notifications.
 
 *(More coming soon!)*
 
