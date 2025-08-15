@@ -32,7 +32,7 @@
 
 Here are some of the things I’ve been working on:
 
-[Story Time Android app helping children learn Hebrew]([url](https://www.storytime.somee.com/))
+## [Story Time Android app helping children learn Hebrew](https://www.storytime.somee.com/)
 
 React native android application
 Featuring:
@@ -48,7 +48,7 @@ Featuring:
   - Backend hosted on **ASP.NET**.
 
 
-[GoJira task management AWS serverless application]([url](https://gojira-website-304804093781.s3.us-east-1.amazonaws.com/index.html))
+## [GoJira task management AWS serverless application](https://gojira-website-304804093781.s3.us-east-1.amazonaws.com/index.html)
 
 React web application
 Featuring:
@@ -60,7 +60,7 @@ Featuring:
   - **SNS** for automated user email notifications
   - **GitHub Actions** for automatic update deployment.
 
-[Book repository AWS serverless website]([url](https://bucket-for-website-346056678364.s3.us-east-1.amazonaws.com/index.html))
+## [Book repository AWS serverless website](https://bucket-for-website-346056678364.s3.us-east-1.amazonaws.com/index.html)
 
 JS web application
 Featuring:
