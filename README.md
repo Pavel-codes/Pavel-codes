@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Pavel Butov
+# Hi, I'm Pavel Butov
 
-🎓 I'm a full stack developer.  
-💼 Previously worked in industry for 6 years — now focusing on fullstack projects and cloud-based solutions.  
+🎓 I'm a software developer.  
+💼 Previously worked in industry for 6 years — now focusing on fullstack projects, game development and cloud-based solutions.  
 🌍 Passionate about building scalable, user-focused applications.
 
 ---
@@ -25,6 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Uniy](https://img.shields.io/badge/-Unity-FFFFFC?style=flat&logo=unityengine&logoColor=black)
 
 ---
 
